@@ -1,5 +1,5 @@
 {
-  "name": "fcc-microtime-service",
+  "name": "fcc-header-parser",
   "version": "1.0.0",
   "decription": "Free Code Camp Header parser",
   "author": "Brice Colucci <brice.colucci@gmail.com>",
