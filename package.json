@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "decription": "Free Code Camp Header parser",
   "author": "Brice Colucci <brice.colucci@gmail.com>",
-  "main": "index.js",
   "private": true,
   "scripts": {
     "start": "./node_modules/.bin/nf start",
@@ -11,7 +10,8 @@
   },
   "devDependencies": {
     "mocha": "^2.5.3",
-    "should": "^9.0.2"
+    "should": "^9.0.2",
+    "supertest": "^1.2.0"
   },
   "dependencies": {
     "express": "^4.14.0",

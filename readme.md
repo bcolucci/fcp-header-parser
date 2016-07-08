@@ -8,7 +8,7 @@ User stories:
 
 Example usage:
 
-    https://cryptic-ridge-9197.herokuapp.com/api/whoami/
+    https://fcp-header-parser.herokuapp.com/
     {"ipaddress":"193.55.245.67","language":"fr","software":"X11; Linux x86_64"}
 
 ## How to test
