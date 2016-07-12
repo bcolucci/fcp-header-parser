@@ -14,6 +14,7 @@ Example usage:
 ## How to test
 
     git clone https://github.com/bcolucci/fcp-header-parser.git \
+      && cd fcp-header-parser \
       && npm install \
       && npm test \
       && npm start \
